@@ -165,7 +165,7 @@
 [lux]gtaps3
 [yasuo]VuanGod
 [yasuo]BiggieSmalls
-[yasuo]stylernic
+[yasuo,lux]stylernic
 [yasuo]hnlj0128
 [yasuo,lux]wuvs
 [lux]fullofji3ap7
