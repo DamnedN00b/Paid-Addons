@@ -45,6 +45,7 @@
 [all]Bik
 [all]davidlaura
 [all]gustavomatteo
+[yasuo]bitotiadinho
 [riven]darkstarm
 [riven]Xatus
 [riven]XiSl0w
