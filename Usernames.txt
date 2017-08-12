@@ -50,6 +50,7 @@
 [riven]Xatus
 [riven]XiSl0w
 [yasuo]eddyluo
+[yasuo]sunwen1209
 [yasuo]Razzi
 [yasuo]Whiteglint07
 [yasuo]cyz5590429
