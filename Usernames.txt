@@ -45,6 +45,7 @@
 [all]Bik
 [all]davidlaura
 [all]gustavomatteo
+[all]Stabiler deutscher
 [yasuo]bitotiadinho
 [riven]darkstarm
 [riven]Xatus
