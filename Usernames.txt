@@ -68,6 +68,7 @@
 [lux]boucliman
 [riven]spangled
 [yasuo]Kamogli
+[yasuo]Soraaaa
 [riven]Shaylee123
 [illaoi,lux,yasuo,riven]Pepes
 [illaoi]bioblast
