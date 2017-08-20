@@ -59,7 +59,7 @@
 [lux]421748337
 [riven]kiwiz
 [riven]gn00433002
-[riven]yanminglai
+[riven,yasuo]yanminglai
 [riven]stipy2
 [yasuo]China CAPF
 [yasuo]a406645502
@@ -234,7 +234,6 @@
 [illaoi]vollpo
 [yasuo]Noragiri
 [yasuo]chayi7382
-[yasuo]yanminglai
 [yasuo]kremisisupremo
 [yasuo]faisalrko
 [yasuo,lux]championsof67
