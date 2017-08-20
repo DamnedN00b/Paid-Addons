@@ -48,7 +48,7 @@
 [all]Stabiler deutscher
 [yasuo]bitotiadinho
 [riven]darkstarm
-[riven]Xatus
+[riven,lux]Xatus
 [riven]XiSl0w
 [yasuo]eddyluo
 [yasuo]sunwen1209
