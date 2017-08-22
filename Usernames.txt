@@ -50,6 +50,7 @@
 [riven]darkstarm
 [riven,lux]Xatus
 [riven]XiSl0w
+[riven]joss449
 [yasuo]eddyluo
 [yasuo]sunwen1209
 [yasuo]Razzi
