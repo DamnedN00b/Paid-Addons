@@ -48,6 +48,7 @@
 [all]Stabiler deutscher
 [yasuo]bitotiadinho
 [riven]darkstarm
+[yasuo]hjhyx007
 [riven,lux]Xatus
 [riven]XiSl0w
 [riven]joss449
